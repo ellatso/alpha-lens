@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="docs/img/hero.png" alt="alpha-lens autopsy report" width="900"/>
+  <a href="https://github.com/ellatso/alpha-lens/actions"><img src="https://github.com/ellatso/alpha-lens/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
 </p>
 
 <p align="center">
